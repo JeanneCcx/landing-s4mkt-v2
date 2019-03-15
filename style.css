@@ -1,0 +1,83 @@
+body{
+  background: rgb(245,245,245);
+  color: grey;
+  font-size: 16px;
+  font-family: 'Raleway', sans-serif;
+  text-align: center;
+}
+h1,h2
+	<div>
+h1{
+  font-family: 'Raleway', sans-serif;
+  color: blue;
+  font-weight: bolder;
+  font-size: 75px;
+  text-align: center;
+}
+	</div>
+h2 {
+  font-family: 'Raleway', sans-serif;
+  color: black;
+  font-weight: lighter;
+  font-size: px;
+  text-align: center;
+}
+a {
+  color: blue;
+}
+a:hover {
+  text-decoration: souligned;
+  color: purple;
+}
+
+#banner {
+	background: white;
+	border: 1px solid;
+    margin: 20px;
+    padding: 40px;
+    border-radius: 7px;
+    text-align: center;
+
+  text-align: center;
+  background-image: url("https://unsplash.it/1000/600?random");
+  background-size: cover;
+  background-position: center;
+  padding: 150px 0;
+  color: white;
+}
+
+#banner p {
+	font-size: 24px
+	opacity: 0.7;
+}
+#footer{
+  padding: 30px;
+  background-color: black;
+  color: lightgrey;
+  <i class="fab fa-facebook-f"></i>
+}
+.card-white {
+  background-color: white;
+  border-radius: 4px;
+  text-align: center;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 16px;
+  margin: 16px 0px;
+}
+.card-white img {
+  margin-bottom: 20px;
+}
+
+.btn-blue {
+  color: white;
+  background-color: #6772e5;
+  border-radius: 4px;
+  box-shadow: 0 4px 6px rgba(50,50,93,.11);
+  padding: 15px 20px;
+}
+
+.btn-blue:hover {
+  background-color: #7795f8;
+  color: white;
+}
+
